@@ -15,7 +15,8 @@ Navegador Google Chrome
 - Modo silencioso( Não exibe o navegador)
 Resolução de captchas usando inteligência artificial - [hcaptcha-model-factory](https://github.com/beiyuouo/hcaptcha-model-factory)
 - Compartilhamento de promo codes com outros usuários do bot. (Canal no telegram)
-
+- **27 modelos pré treinados**
+- Atualização periódica de modelos, basta baixar e colocar na pasta!!!.
 
 # Instruções para criação de novo treinamento de captcha
 
